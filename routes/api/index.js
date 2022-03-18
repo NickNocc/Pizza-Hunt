@@ -6,4 +6,3 @@ router.use('/comments', commentRoutes);
 router.use('/pizzas', pizzaRoutes);
 
 module.exports = router;
-gjkfd
